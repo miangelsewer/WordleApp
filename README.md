@@ -34,26 +34,27 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+#When the user gets the word right
 <p align="center">
-  <img src="https://i.imgflip.com/a4cqfg.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
+  <img src="https://i.imgflip.com/a51f0d.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
+</p>
+
+#When the user exceeds the number of guesses
+<p align="center">
+  <img src="https://i.imgflip.com/a51fa3.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
 </p>
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with imgflip
 
 
 ## Notes
 
 
 Describe any challenges encountered while building the app.
-Ran into an error where the FourLetterWordList.kt didn’t work properly 
-Getting my constraint layout to work correctly
+- Ran into an error where the FourLetterWordList.kt didn’t work properly 
+- Getting my constraint layout to work correctly
+
 ## License
 
 
@@ -73,5 +74,4 @@ Getting my constraint layout to work correctly
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
 
